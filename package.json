@@ -55,5 +55,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "name": "react-dashboard",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therogersak/react-dashboard.git"
+  },
+  "author": "therogersak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therogersak/react-dashboard/issues"
+  },
+  "homepage": "https://github.com/therogersak/react-dashboard#readme"
 }
